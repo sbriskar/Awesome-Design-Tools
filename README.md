@@ -691,8 +691,13 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 - [Blobmaker](https://www.blobmaker.app/) — create vector blob illustrations in the browser, with varying colour, complexity and contrast. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Blush](https://blush.design/) — create, mix and customize illustrations made by artists around the world. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![Figma](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/figma.svg)
 - [HANDZ](https://www.handz.design/) - Free 3D hand gestures ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [MOCKUPZ](https://mockupz.design/) - Free 3D mockup scenes ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [ANIMALZ](https://animalz.design/) - Cute 3D animals with source files
+- [CHARACTERZ](https://characterz.design/) - The biggest 3D illustration library in the world ❤️
 - [Humaaans](https://www.humaaans.com/) — a free library to mix-&-match illustrations of people. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [ICONZ](http://iconz.design/) - 3D icons library
+- [ICONZ](http://iconz.design/) - Huge pack of 3D icons library with source files included
+- [HEADZ](https://headz.design/) - 400,000+ combinations of 3D heads - alternative to Apple Memoji
+- [EMOJIZ](https://emojiz.design/) - Animated 3D emojis
 - [Illustration by Pngtree](https://pngtree.com/illustration-design) — over 13142 professionally designed illustrations of different styles.
 - [IRA Design](https://iradesign.io/) — create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [JoeSchmoe](https://joeschmoe.io) — an illustrated avatar collection for developers and designers, perfect as placeholders or live sites. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
